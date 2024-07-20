@@ -1,0 +1,15 @@
+.titulo {
+    font-size: 45px;
+    color: black;
+    font-family: 'MedievalSharp', cursive;
+    text-align: center;
+}
+
+.corpo {
+    background: #bd9f7a;
+}
+
+.line1 {
+    border: 2px solid black;
+
+}
