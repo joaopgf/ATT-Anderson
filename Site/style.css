@@ -13,3 +13,17 @@
     border: 2px solid black;
 
 }
+
+.titulo2{
+    font-size: 30px;
+    color: black;
+    font-family: 'MedievalSharp', cursive;
+    text-align: center;
+}
+
+.p{
+    font-size: 25px;
+    color: black;
+    font-family: 'MedievalSharp', cursive;
+    text-align: center;
+}
