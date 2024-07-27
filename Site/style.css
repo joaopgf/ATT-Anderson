@@ -38,20 +38,7 @@ nav ul li a {
     justify-content: center;
 }
 
-.book {
-    border: 1px solid #ddd;
-    margin: 1rem;
-    padding: 1rem;
-    width: 200px;
-    text-align: left;
-}
+.line1 {
+    border: 2px solid black;
 
-footer {
-    background-color: #4CAF50;
-    color: white;
-    text-align: center;
-    padding: 1rem;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
 }
