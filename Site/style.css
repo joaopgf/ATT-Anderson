@@ -1,15 +1,57 @@
-.titulo {
-    font-size: 45px;
-    color: black;
-    font-family: 'MedievalSharp', cursive;
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1rem;
     text-align: center;
 }
 
-.corpo {
-    background: #bd9f7a;
+nav ul {
+    list-style: none;
+    padding: 0;
 }
 
-.line1 {
-    border: 2px solid black;
+nav ul li {
+    display: inline;
+    margin: 0 1rem;
+}
 
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.content-section {
+    padding: 2rem;
+    text-align: center;
+}
+
+.book-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.book {
+    border: 1px solid #ddd;
+    margin: 1rem;
+    padding: 1rem;
+    width: 200px;
+    text-align: left;
+}
+
+footer {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }
